@@ -1,0 +1,36 @@
+/* [project]/app/globals.scss.css [app-client] (css) */
+.page {
+  color: #f1f1f1;
+  background-color: #232323;
+  place-content: center;
+  min-height: 100vh;
+  display: grid;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.header ul {
+  justify-content: center;
+  gap: 2rem;
+  list-style: none;
+  display: flex;
+}
+
+.header ul a {
+  color: #d28fff;
+}
+
+.main {
+  border: 1px solid #f1f1f1;
+  border-radius: .5rem;
+  padding: 2rem;
+  display: grid;
+}
+
+.main ul {
+  margin-bottom: .5rem;
+}
+
+/*# sourceMappingURL=app_globals_scss_831d6bd1.css.map*/

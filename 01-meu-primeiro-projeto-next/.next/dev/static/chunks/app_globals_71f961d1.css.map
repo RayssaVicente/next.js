@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Rayssa%20Vicente/Desktop/next.js/01-meu-primiero-projeto-next/app/globals.css"],"sourcesContent":[".page {\n  background-color: #232323;\n  color: #f1f1f1;\n  display: grid;\n  place-content: center;\n  min-height: 100vh;\n}\n\n.header {\n  margin-bottom: 2rem;\n}\n\n.main {\n  border: 1px solid #f1f1f1;\n  border-radius: .5rem;\n  display: grid;\n  padding: 2rem;\n}"],"names":[],"mappings":"AAAA;;;;;;;;AAQA;;;;AAIA"}}]
+}

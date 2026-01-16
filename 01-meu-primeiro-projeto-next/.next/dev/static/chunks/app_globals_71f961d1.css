@@ -1,0 +1,21 @@
+/* [project]/app/globals.css [app-client] (css) */
+.page {
+  color: #f1f1f1;
+  background-color: #232323;
+  place-content: center;
+  min-height: 100vh;
+  display: grid;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.main {
+  border: 1px solid #f1f1f1;
+  border-radius: .5rem;
+  padding: 2rem;
+  display: grid;
+}
+
+/*# sourceMappingURL=app_globals_71f961d1.css.map*/
