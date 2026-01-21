@@ -1,0 +1,33 @@
+/* Em page.module.css */
+
+.post {
+  margin: 0 auto;
+  max-width: 48rem;
+  padding: 2rem 0;
+}
+
+/* Como o 'p' e o 'h2' são tags nativas dentro da sua div, 
+   você pode usar o seletor descendente assim: 
+*/
+.postContent p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  text-align: justify;
+  /* Garante que a fonte Inter seja usada se as variáveis falharem */
+  font-family: var(--font-inter), sans-serif;
+}
+
+.postContent h2 {
+  font-family: var(--font-playfair-display), serif;
+  font-size: 2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Se você quiser estilizar as imagens dentro do post */
+.postContent img {
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  display: block;
+}
